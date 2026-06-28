@@ -93,3 +93,26 @@
 <p align="center">
 ⭐️ From <a href="https://github.com/shakeel7866">Muhammad Shakeel</a>
 </p>
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,mysql,git,github,vscode,tensorflow,sklearn" />
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakeel7866&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel7866&theme=tokyonight" />
+</p>
+## 🚀 Featured Projects
+
+- 🤖 AI Interview Question Generator
+- 🎓 Student Management System
+- 🏠 Hostel Management System
+- 💻 Technify Internship Program
+- <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Machine+Learning+Learner&center=true&width=500&height=50">
+</p>
