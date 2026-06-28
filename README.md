@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shakeel</h1>
 <h3 align="center">Computer Science Student | Python Developer | AI & Machine Learning Enthusiast</h3>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Machine+Learning+Learner&center=true&width=500&height=50">
+</p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+ 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Science**
 - 💻 I’m passionate about **Python Development and AI Applications**
 - 🚀 I love building real-world projects and solving problems through code
@@ -113,6 +115,4 @@
 - 🎓 Student Management System
 - 🏠 Hostel Management System
 - 💻 Technify Internship Program
-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Machine+Learning+Learner&center=true&width=500&height=50">
-</p>
+  
