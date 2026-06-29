@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shakeel</h1>
+<h1 align="center">👋, I'm Muhammad Shakeel</h1>
 <h3 align="center">Computer Science Student | Python Developer | AI & Machine Learning Enthusiast</h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Machine+Learning+Learner&center=true&width=500&height=50">
